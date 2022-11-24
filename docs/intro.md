@@ -2,46 +2,48 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# ¿Que es LetterCMS?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+LetterCMS es un Gestor de contenido hibrido (SaaS y Headless) que ofrece una interfaz de usuario para los usuarios regulares y una API para desarrolladores.
 
-## Getting Started
+LetterCMS esta enfocado en mejorar la creacion, promocion y entrega de contenido, ofreciendo herramientas de marketing integradas.
 
-Get started by **creating a new site**.
+## Caracteristicas
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Las caracteristicas se dividen en 3 categorias: Crear, Atraer, Deleitar. En cada categoria esta hay se integran herramientas para ayudar a mejorar cada etapa.
 
-### What you'll need
+### Crear
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+El proceso de creacion es importante. Analizar datos, investigar, planificar, hacer pruebas son parte fundamental para el proceso de creacion. Entre las caracteristicas actuales estan:
 
-## Generate a new site
+- Editor WYSIWYG
+- Editor Arrastrar y soltar
+- Analiticas del blog
+- Pruebas A/B
+- Colaboradores
+- Stock de Imagenes
 
-Generate a new Docusaurus site using the **classic template**.
+### Atraer
 
-The classic template will automatically be added to your project after you run the command:
+Promocionar tu contenido ayuda a mejorar el trafico en tu sitio web. Por esta manera hemos integrado caracteristicas que ayudan al proceso de promocion.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Autopromocion en redes sociales
+- Programador de publicaciones
+- Publicacion simultanea en las redes sociales
+- Promocion via email
+- Notificaciones Push
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Deleitar
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Ofrecer una buena experiencia al usuario maximiza las conversiones.
 
-## Start your site
+- Sistema de recomendaciones basado en contenido
+- Sistema de recomendaciones basado en machine learning
+- Optimizaciones de imagenes
+- Generacion estatica
 
-Run the development server:
+## Roadmap
 
-```bash
-cd my-website
-npm run start
-```
+Aparte de estas caracteristicas, queremos crear mejores y unicos features para ayudar tanto a nuevos creadores de contenido como a creadores experimentados.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Vea nuestro **[Roadmap](roadmap)**

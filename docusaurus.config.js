@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'LetterCMS',
   tagline: 'Dinosaurs are cool',
   url: 'https://lettercms-docs.netlify.app',
   baseUrl: '/',
@@ -17,14 +17,14 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lettercms', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'lettercms', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'LetterCMS Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'LetterCMS Logo',
+          src: 'img/logo.svg', //TODO: change to CDN url on production
         },
         items: [
           {
@@ -69,10 +69,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://lettercms.vercel.app/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/lettercms/docusaurus',
+            href: 'https://github.com/lettercms/lettercms',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -84,7 +88,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Empezando',
                 to: '/docs/intro',
               },
             ],
@@ -111,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://lettercms.vercel.app/blog',
               },
               {
                 label: 'GitHub',
@@ -120,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} LetterCMS, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
