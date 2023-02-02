@@ -38,7 +38,7 @@ El dashboard es la interfaz de usuario principal, con la cual podras escribir co
 
 ### API
 
-La API es el motor principal. El control de mando se integra utilizando el [SDK](/docs/sdk) y el [blog](https://lettercms.vercel.app/blog) esta contruido utilizando **LetterCMS**.
+La API es el motor principal. El control de mando se integra utilizando el **SDK** y el propio [blog](https://lettercms.vercel.app/blog) esta contruido utilizando **LetterCMS**.
 
 #### Tecnologias
 

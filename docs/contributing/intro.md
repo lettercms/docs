@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # ¿Como Contribuir?
 
-LetterCMS es codigo abierto, bajo la licencia [Apache-2.0](url). Creemos en el talento y potencial de un proyecto hecho por la comunidad. Aportando ideas, resolviendo problemas con distintos puntos de visto y amamos el software de codigo abierto, abre muchas posibilidades da pie a crear algo increible.
+LetterCMS es codigo abierto, bajo la licencia [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Creemos en el talento y potencial de un proyecto hecho por la comunidad. Aportando ideas, resolviendo problemas con distintos puntos de visto y amamos el software de codigo abierto, abre muchas posibilidades da pie a crear algo increible.
 
 
 Las maneras de contribuir son muchas indistintamente de la experiencia que cada persona tengaa en programacion, hasta una persona sin experiencia, con solo compartir el proyecto en sus redes sociales esta haciendo una gran contribución.
 
-Para que tenga una mejor comprension acerca de que queremos con este proyecto lea la seccion [Futuro de LetterCMS](docs/roadmap).
+Para que tenga una mejor comprension acerca de que queremos con este proyecto lea la seccion [Futuro de LetterCMS](/docs/roadmap).
 
 ## Como desarrollador
 
