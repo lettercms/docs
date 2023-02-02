@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 # ¿Como Contribuir?
@@ -15,7 +15,7 @@ Para que tenga una mejor comprension acerca de que queremos con este proyecto le
 
 ### Desarrollo del proyecto
 
-El campo en el que necesitaremos mucha ayuda es obviamente en el campo del desarrollo. Creacion de features, solucion de errores, refactorizacion de codigo. Puedes unirte a nuestro canal de [Discord](https://discord.com/lettercms) en donde conseguiras informacion del estado actual del proyecto.
+El campo en el que necesitaremos mucha ayuda es obviamente en el campo del desarrollo. Creacion de features, solucion de errores, refactorizacion de codigo. Puedes unirte a nuestro canal de [Discord](https://discord.gg/Jx6XTSA2Wz) en donde conseguiras informacion del estado actual del proyecto.
 
 ### Integraciones
 
@@ -53,15 +53,15 @@ Tambien puedes apoyarnos y aportar sin saber nada de programación ni habilidade
 
 ### Traduce
 
-¿Dominas varios idiomas? ayudanos a expandir nuestras barreras, ayudanos a llegar a personas de todos los paises.
+¿Dominas varios idiomas? ayudanos a expandir nuestras barreras y a llegar a personas de todos los paises.
 
 ### Registrate
 
-La principal manera y la mas facil de ayudarnos es registrarse y usarlo. Notificar errores en el funcionamiento y la interfaz
+La principal manera en la que nos gustaria que nos ayudaras es registrandote y usandolo. Notifica errores en el funcionamiento y la interfaz. Cuentanos lo que te gusta y lo que no, tu opinion nos importa.
 
 ### Comparte
 
-La principal manera y la mas facil de ayudarnos es compartir. Ayudanos a llegar cada dia a mas personas, se el promotor de nuestro proyecto. 
+La manera mas sencilla en la que no puedes ayudar es compartiendo el proyecto. Ayudanos a llegar cada dia a mas personas, se el promotor de LetterCMS.
 
 ### Interactúa
 

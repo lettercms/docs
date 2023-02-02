@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Guia de contribución
 
 Para contribuir de manera mas organizada tenemos algunos parametros a seguir para realizar contribuciones de mejor manera y agilizar el proceso, siempre siguiendo el [Código de Conducta](.) de nuestra comunidad.

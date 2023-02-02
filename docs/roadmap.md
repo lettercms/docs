@@ -12,13 +12,13 @@ Creado pensando en 3 principales usuarios: Consumidores de contenido, Creadores 
 
 ### Consumidores de contenido
 
-Los consumidores son el principal impulso del proyecto. Pueden haber muchos creadores, pero si nadie consume su contenido, no es bueno.
+Los consumidores son el principal impulso del proyecto. Pueden haber muchos creadores, pero si no hay personas consumiendo su contenido, no sirve de nada.
 
-Para los consumidores queremos ofrecer le mejor experiencia dentro de la plataforma. Evitando tiempos de espera innecesarios, ofreciendo imagenes de nueva generacion, entregando el contenido correcto para cada tipo de usuario, en fin, ofrecer una gran experiencia de usuario para cada consumidor de contenido.
+Para los consumidores queremos ofrecer la mejor experiencia dentro de la plataforma. Evitando tiempos de espera innecesarios, ofreciendo imagenes de nueva generacion, entregando el contenido correcto para cada tipo de usuario, en fin, ofrecer una gran experiencia de usuario para cada consumidor de contenido.
 
 ### Creadores
 
-Los credores son nuestro principal cliente. Para ellos queremos ofrecer herramientas de creacion y promocion q ayuden en gran manera la experiencia de creacion y promocion, evitando integrar herramientas externas lo cual facilita el proceso a los nuevos creadores, y a su vez ofrecer herramientas de alto nivel para los creadores experimentados.
+Los creadores son nuestro principal cliente. Para ellos queremos ofrecer herramientas de creacion y promocion que ayuden en gran manera dicha experiencia creando contenido, evitando integrar herramientas externas lo cual facilita el proceso a los nuevos creadores, y a su vez ofrecer herramientas de alto nivel para los creadores experimentados.
 
 Estos features se separan en 2 categorias: Creacion y Promocion.
 
@@ -92,7 +92,7 @@ No queremos reemplazar las plataformas de creación y promocion, queremos integr
 
 Hay muchas maneras, LetterCMS es de Codigo Abierto, nosotros creemos que en comunidad, integrando distintas ideas, distintos puntos de vista se crean cosas increibles.
 
-Proyecto disponible en [Github](https://github.com/lettercms). Revise la seccion [contribuir](/docs/contributing)
+Proyecto disponible en [Github](https://github.com/lettercms). Revise la seccion [contribuir](/docs/contributing/intro)
 
 Ayudanos a crear algo grande, libre y abierto para todos.
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # ¿Que es LetterCMS?
 
-LetterCMS es un Gestor de contenido hibrido (SaaS y Headless) que ofrece una interfaz de usuario para los usuarios regulares y una API para desarrolladores.
+LetterCMS es un Gestor de contenido hibrido que ofrece una interfaz de usuario para los usuarios regulares y una API para desarrolladores.
 
 LetterCMS esta enfocado en mejorar la creacion, promocion y entrega de contenido, ofreciendo herramientas de marketing integradas.
 

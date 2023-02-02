@@ -12,7 +12,6 @@ Primero que nada hay que proceder a [crear una cuenta](https://lettercms.vercel.
 
 _Image_
 
-
 Verifica tu correo
 
 _Image_
@@ -26,7 +25,6 @@ _Image_
 Como paso recomendado, procede a Agregar una foto, redes sociales, y demas informacion en la cuenta.
 
 _Image_
-
 
 ### Blog
 

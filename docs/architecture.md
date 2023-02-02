@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Arquitectura
@@ -10,18 +10,17 @@ LetterCMS tiene una arquitectura basica de **microservicios** en su mayoria en e
 
 Los servicios disponibles son:
 
-- Dashboard
+- Control de mando
+- Cliente
 - API
 - Proxy de Contenido
-- Proxy de las plantillas
-- Servicio de Machine Learning
 - Documentacion (Donde estas en este momento)
 
 Todos desplegados y alojados en Vercel. Excepto la Documentacion que esta alojada en Netlify 
 
 ### Dashboard
 
-El dashboard es la interfaz de usuario principal.
+El dashboard es la interfaz de usuario principal, con la cual podras escribir contenido, revisar datos y demás acciones.
 
 #### Tecnologias
  
@@ -39,7 +38,7 @@ El dashboard es la interfaz de usuario principal.
 
 ### API
 
-La API el el motor principal. El dashboard se integra utilizando el [SDK](/docs/sdk) y el [blog](https://lettercms.vercel.app/blog) esta contruido utilizando LetterCMS.
+La API es el motor principal. El control de mando se integra utilizando el [SDK](/docs/sdk) y el [blog](https://lettercms.vercel.app/blog) esta contruido utilizando **LetterCMS**.
 
 #### Tecnologias
 
@@ -57,9 +56,18 @@ La API el el motor principal. El dashboard se integra utilizando el [SDK](/docs/
 
 ### Proxy de Contenido
 
-### Proxy de plantillas
+El proxy de contenido es un proxy con el cual se sirven las imagenes almacenadas en firebase. Optimizando la entrega de imagenes y redimension via URL
 
-### Motor de Mahine Learning
+#### Tecnologias
+
+- Sharp
+- Firebase
 
 ### Documentación
 
+Esta Pagina. Desplegada en Netlify
+
+#### Tecnologias
+
+- Sharp
+- Firebase
